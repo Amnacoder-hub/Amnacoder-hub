@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amnacoder-hub
 - 👀 I’m interested in coding and programming.
-- 🌱 I’m currently learning statistics for data sciences and data analytics in pu.
+- 🌱 I’m currently learning statistics for data sciences and data analytics in University of the Punjab,Lahore.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me:
 - ⚫Contact me via email: amna2244627@gmail.com
