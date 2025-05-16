@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amnacoder-hub
+- 👋 Hi, I’m Amna
 - 👀 I’m interested in Data Sciences.
 - 🌱 I’m currently learning statistics for data sciences and data analytics in University of the Punjab,Lahore.
 - 💞️ I’m looking to collaborate on open source projects.
